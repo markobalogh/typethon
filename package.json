@@ -1,0 +1,29 @@
+{
+  "name": "typethon",
+  "version": "1.0.0",
+  "description": "A python interface for typescript",
+  "main": "lib/index",
+  "types": "lib/index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markobalogh/typethon.git"
+  },
+  "keywords": [
+    "python",
+    "typescript"
+  ],
+  "author": "Marko Balogh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/markobalogh/typethon/issues"
+  },
+  "homepage": "https://github.com/markobalogh/typethon#readme",
+  "devDependencies": {
+    "@types/node": "^9.6.0",
+    "ts-node": "^5.0.1",
+    "typescript": "^2.7.2"
+  }
+}
